@@ -1,0 +1,6 @@
+book_id,title,raw_path,bronze_path,silver_path,n_chars_raw,n_chars_clean,n_words_clean
+alice_in_wonderland,Alice's Adventures in Wonderland,data/raw/alice_in_wonderland.html,data/bronze/alice_in_wonderland.txt,data/silver/alice_in_wonderland.txt,154659,151582,27086
+dorian_gray,The Picture of Dorian Gray,data/raw/dorian_gray.html,data/bronze/dorian_gray.txt,data/silver/dorian_gray.txt,434241,429312,79060
+moby_dick,"Moby-Dick; or, The Whale",data/raw/moby_dick.html,data/bronze/moby_dick.txt,data/silver/moby_dick.txt,1350121,1236225,213257
+pride_and_prejudice,Pride and Prejudice,data/raw/pride_and_prejudice.html,data/bronze/pride_and_prejudice.txt,data/silver/pride_and_prejudice.txt,733291,729860,127869
+sherlock_holmes,The Adventures of Sherlock Holmes,data/raw/sherlock_holmes.html,data/bronze/sherlock_holmes.txt,data/silver/sherlock_holmes.txt,589378,561971,104600
