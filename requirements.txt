@@ -1,0 +1,11 @@
+fastapi
+langchain
+langchain_chroma
+langchain_ollama
+beautifulsoup4
+chromadb
+boto3
+python-dotenv
+pandas
+pyarrow
+fastparquet
