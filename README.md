@@ -38,7 +38,7 @@ GutenRAG is a mini end-to-end **"Data-Scrape-to-RAG" lakehouse** system built on
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/arpan-shrestha/
+git clone https://github.com/arpan-shrestha/Project_Gutenberg.git
 cd Project_Gutenberg
 python -m venv env && source env/bin/activate
 pip install -r requirements.txt
@@ -67,7 +67,7 @@ Login: admin / password123
   ```bash
       python src/extract_text.py
   ```
-- step 3: Create Golf Layer (Chunks)
+- step 3: Create Gold Layer (Chunks)
    ```bash
       python src/gold_chunks.py
   ```
