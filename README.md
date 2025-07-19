@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ---
 ### 2. Start Ollama with Mistral
 ```bash
-ollama run mistral
+ollama serve
 ```
 - Make sure that Ollama is installed and Mistral is pulled
 ---
@@ -54,8 +54,8 @@ ollama run mistral
 ```bash
 docker compose up -d minio
 ```
-Access MinIO Console at http://localhost:9001
-Login: admin / password123
+- Access MinIO Console at http://localhost:9001
+- Login: admin / password123
 
 ---
 ### 4. Run the Data Pipeline
